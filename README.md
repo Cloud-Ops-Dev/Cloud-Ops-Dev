@@ -1,6 +1,8 @@
 # Hi, I'm Mark Howell
 
-Founder of **Novique.AI, LLC** in Forney, TX. I plan, spec, and launch AI products for small businesses by directing AI coding agents and vendors from requirements through production.
+Founder of **Novique.AI, LLC** in Forney, TX. [Novique.AI on GitHub](https://github.com/novique-ai)
+
+I plan, spec, and launch AI products for small businesses by directing AI coding agents and vendors from requirements through production.
 
 Before that, I spent 10+ years at IBM in cloud operations, SOC/SIEM onboarding, incident and problem management, and ServiceNow automation.
 
